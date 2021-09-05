@@ -20,7 +20,7 @@ When I'm not coding, you can find me playing video games or riding my beloved mo
 
 **What I work with:**
 <br>
-<p>
+<p align="center">
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/html.png" alt="html-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/css.png" alt="css-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/tailwind.svg" alt="tailwind-logo">&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ When I'm not coding, you can find me playing video games or riding my beloved mo
 
 **What I'm learning:**
 <br>
-<p>
+<p align="center">
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/javascript.png" alt="javascript-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/golang.jpeg" alt="golang-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/svelte.png" alt="svelte-logo">&nbsp;&nbsp;&nbsp;
