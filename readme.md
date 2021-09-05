@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Sanjay M</h1>
+<h1 align="center">Hi there! I'm Sanjay M  </h1><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="center">
 I'm a Fullstack Developer somewhat inclined towards Backend, with a love for Design. I mainly code in Python and currently learning JavaScript. I'm exploring large open-source codebases and trying to understand the architecture. Besides that, I'm a huge community guy and have served as a Google Developer Student Club Lead. Open to collaborate and create awesome projects!  
@@ -9,21 +9,6 @@ When I'm not coding, you can find me playing video games or riding my beloved mo
 
 
 <br>
-
-
-<br>
-
-### What I always play with
-<p> 
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
-</p>
-
 <br>
 
 **What I work with:**
