@@ -45,7 +45,7 @@ When I'm not coding, you can find me playing video games or riding my beloved mo
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/golang.jpeg" alt="golang-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/svelte.png" alt="svelte-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/react.png" alt="react-logo">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/mongodb.png" alt="mongodb-logo">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/awsc.png" alt="aws-logo">&nbsp;&nbsp;&nbsp;
+  <img height="50" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/mongodb.png" alt="mongodb-logo">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/aws.png" alt="aws-logo">&nbsp;&nbsp;&nbsp;
 
 </p>
