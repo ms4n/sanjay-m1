@@ -23,9 +23,10 @@ When I'm not coding, you can find me playing video games or riding my beloved mo
 <p>
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/html.png" alt="html-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/css.png" alt="css-logo">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/tailwind.svg" alt="tailwind-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/python.png" alt="python-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/c.png" alt="c-logo">&nbsp;&nbsp;&nbsp;
-  <img height="70" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/django.png" alt="django-logo">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/django(1).png" alt="django-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/fastapi.png" alt="fastapi-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/postgresql.png" alt="postgresql-logo">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/redis.png" alt="redis-logo">&nbsp;&nbsp;&nbsp;
