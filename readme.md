@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Sanjay M  </h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h1 align="center">Hi there! I'm Sanjay M  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p align="center">
 I'm a Fullstack Developer somewhat inclined towards Backend, with a love for Design. I mainly code in Python and currently learning JavaScript. I'm exploring large open-source codebases and trying to understand the architecture. Besides that, I'm a huge community guy and have served as a Google Developer Student Club Lead. Open to collaborate and create awesome projects!  
