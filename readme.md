@@ -21,17 +21,17 @@ When I'm not coding, you can find me playing video games or riding my beloved mo
 **What I work with:**
 <br>
 <p>
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/html.png" alt="html-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/css.png" alt="css-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/tailwindcss.png" alt="tailwindcss-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/python.png" alt="python-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/c.png" alt="c-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/django.png" alt="django-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/fastapi.png" alt="fastapi-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/postgresql.png" alt="postgresql-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/redis.png" alt="redis-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/google-cloud.png" alt="google-cloud-logo">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/figma.png" alt="figma-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/html.png" alt="html-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/css.png" alt="css-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/tailwindcss.svg" alt="tailwindcss-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/python.png" alt="python-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/c.png" alt="c-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/django.png" alt="django-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/fastapi.png" alt="fastapi-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/postgresql.png" alt="postgresql-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/redis.png" alt="redis-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/google-cloud.png" alt="google-cloud-logo">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://github.com/sanjay-m1/sanjay-m1/blob/master/Resources/figma.png" alt="figma-logo">&nbsp;&nbsp;&nbsp;
 
 </p>
 
